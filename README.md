@@ -60,7 +60,7 @@
 
 # My Github stats
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CspO6&show_icons=true&theme=gotham)
-![Sumanth's Top Languages](https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=CspO6&show_icons=true&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=CspO6&show_icons=true&hide_border=true&theme=gotham)
 
 
 
