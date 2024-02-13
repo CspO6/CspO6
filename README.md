@@ -2,10 +2,15 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sebas</h1>
 <h4 align="center">a software engineering student at ESPOCH, see my <a href="https://github.com/CspO6/CspO6/blob/main/CV.pdf" target="_blank">resume</a> for more</h4>
 </div>
-<p align="center">
-    <span style="font-size: 20px; font-weight: bold; color: #333;">Languages:</span><br>
-    <span style="font-size: 18px; color: #555;">Spanish, English</span>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CspO6&label=Profile%20views&color=0e75b6&style=flat" alt="CspO6" /> </p>
+<div align="center">
+    <br>
+    <kbd style="background-color: #282c34; padding: 10px; border-radius: 5px; color: #abb2bf;">
+        <h3 style="margin: 0; color: #61dafb;">Idiomas:</h3>
+        <p style="margin: 0; font-size: 16px;">Español, Inglés</p>
+    </kbd>
+</div>
+
 
 
 
@@ -79,6 +84,6 @@
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CspO6&show_icons=true&theme=gotham)
 ![Top Languages](https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=CspO6&show_icons=true&hide_border=true&theme=gotham)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CspO6&label=Profile%20views&color=0e75b6&style=flat" alt="CspO6" /> </p>
+
 
 
