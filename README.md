@@ -1,11 +1,13 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sebas</h1>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CspO6&label=Profile%20views&color=0e75b6&style=flat" alt="CspO6" /> 
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; <h4>a software engineering student at ESPOCH, see my <a href="https://github.com/CspO6/CspO6/blob/main/CV.pdf" target="_blank">resume</a> for more</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CspO6&label=Profile%20views&color=0e75b6&style=flat" alt="CspO6" /> 
+- 🎓 &nbsp; <span style="font-size: 16px;">A software engineering student at ESPOCH, see my <a href="https://github.com/CspO6/CspO6/blob/main/CV.pdf" target="_blank">resume</a> for more</span>
+
+
 <p align="center">
     <span style="font-size: 20px; font-weight: bold; color: #333;">Languages:</span><br>
     <span style="font-size: 18px; color: #555;">Spanish, English</span>
