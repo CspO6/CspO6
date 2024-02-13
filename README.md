@@ -79,6 +79,6 @@
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CspO6&show_icons=true&theme=gotham)
 ![Top Languages](https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=CspO6&show_icons=true&hide_border=true&theme=gotham)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CspO6&label=Profile%20views&color=0e75b6&style=flat" alt="CspO6" /> </p>
 
 
