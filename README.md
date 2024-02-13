@@ -2,7 +2,16 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sebas</h1>
 <h4 align="center">a software engineering student at ESPOCH, see my <a href="https://github.com/CspO6/CspO6/blob/main/CV.pdf" target="_blank">resume</a> for more</h4>
 </div>
-
+<p align="center">
+    <br>
+    <kbd>
+        <kbd>Languages</kbd>
+        <br>
+        <br>
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png" alt="Spanish" title="Spanish">
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png" alt="English" title="English">
+    </kbd>
+</p>
 
 <p style="display: inline-block;" align="center">
   <kbd>
