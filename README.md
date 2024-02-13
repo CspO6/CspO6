@@ -3,13 +3,11 @@
 <h4 align="center">a software engineering student at ESPOCH, see my <a href="https://github.com/CspO6/CspO6/blob/main/CV.pdf" target="_blank">resume</a> for more</h4>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CspO6&label=Profile%20views&color=0e75b6&style=flat" alt="CspO6" /> </p>
-<div align="center">
+<p align="center">
     <br>
-    <kbd style="background-color: #282c34; padding: 10px; border-radius: 5px; color: #abb2bf;">
-        <h3 style="margin: 0; color: #61dafb;">Idiomas:</h3>
-        <p style="margin: 0; font-size: 16px;">Español, Inglés</p>
-    </kbd>
-</div>
+    <span style="font-size: 20px; font-weight: bold; color: #333;">Languages:</span><br>
+    <span style="font-size: 18px; color: #555;">Spanish, English</span>
+</p>
 
 
 
