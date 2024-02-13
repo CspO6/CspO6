@@ -8,10 +8,10 @@
         <kbd>Languages</kbd>
         <br>
         <br>
-        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png" alt="Spanish" title="Spanish">
-        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png" alt="English" title="English">
+        <span style="font-size: 18px;">Spanish</span>, <span style="font-size: 18px;">English</span>
     </kbd>
 </p>
+
 
 <p style="display: inline-block;" align="center">
   <kbd>
