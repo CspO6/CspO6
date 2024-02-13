@@ -57,6 +57,9 @@
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
+# My Github stats
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CspO6&show_icons=true&theme=gotham)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=CspO6&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
