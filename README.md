@@ -13,7 +13,7 @@
 <details>
   <summary>☎️ contact me</summary>
 <div>
-
+<sanp>
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
@@ -33,7 +33,7 @@
          alt="azzar" height="30"/></a>
       <br>
     </p>
-
+</sanp>
 </div>
 </details>
 
