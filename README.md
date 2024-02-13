@@ -4,7 +4,6 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CspO6&label=Profile%20views&color=0e75b6&style=flat" alt="CspO6" /> </p>
 <p align="center">
-    <br>
     <span style="font-size: 20px; font-weight: bold; color: #333;">Languages:</span><br>
     <span style="font-size: 18px; color: #555;">Spanish, English</span>
 </p>
