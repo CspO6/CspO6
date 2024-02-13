@@ -4,11 +4,12 @@
 </div>
 <div align="center">
     <br>
-    <div style="background-color: #282c34; padding: 10px; border-radius: 5px; color: #abb2bf;">
+    <kbd style="background-color: #282c34; padding: 10px; border-radius: 5px; color: #abb2bf;">
         <h3 style="margin: 0; color: #61dafb;">Languages:</h3>
         <p style="margin: 0; font-size: 16px;">Spanish, English</p>
-    </div>
+    </kbd>
 </div>
+
 
 
 
