@@ -3,7 +3,6 @@
 <h4 align="center">a software engineering student at ESPOCH, see my <a href="https://github.com/CspO6/CspO6/blob/main/CV.pdf" target="_blank">resume</a> for more</h4>
 </div>
 <p align="center">
-    <br>
     <span style="font-size: 20px; font-weight: bold; color: #333;">Languages:</span><br>
     <span style="font-size: 18px; color: #555;">Spanish, English</span>
 </p>
