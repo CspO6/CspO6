@@ -4,12 +4,10 @@
 </div>
 <p align="center">
     <br>
-    <kbd style="background-color: #e6f7ff; padding: 10px; border-radius: 5px;">
-        <kbd style="font-weight: bold; font-size: 18px; color: #1890ff;">Languages:</kbd>
-        <br><br>
-        <span style="font-size: 16px; color: #0050b3;">Spanish</span>, <span style="font-size: 16px; color: #0050b3;">English</span>
-    </kbd>
+    <span style="font-size: 18px; color: #333;">Languages:</span> 
+    <span style="font-size: 16px; color: #666;">Spanish, English</span>
 </p>
+
 
 
 <p style="display: inline-block;" align="center">
