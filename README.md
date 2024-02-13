@@ -4,9 +4,10 @@
 </div>
 <p align="center">
     <br>
-    <span style="font-size: 18px; color: #333;">Languages:</span> 
-    <span style="font-size: 16px; color: #666;">Spanish, English</span>
+    <span style="font-size: 20px; font-weight: bold; color: #333;">Languages:</span><br>
+    <span style="font-size: 18px; color: #555;">Spanish, English</span>
 </p>
+
 
 
 
