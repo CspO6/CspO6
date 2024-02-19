@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" style="vertical-align: middle;" src="https://emojicdn.elk.sh/waving_hand">, I'm Sebas</h1>
+<h1 align="center">Hi <img width="35" style="vertical-align: middle;" src="https://emojicdn.elk.sh/waving_hand">👋, I'm Sebas</h1>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CspO6&label=Profile%20views&color=0e75b6&style=flat" alt="CspO6" /> 
 <h3> 💻 &nbsp;About Me </h3>
