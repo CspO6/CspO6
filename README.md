@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Anirudh Rai</h1>
+<h1 align="center">Hi 👋, I'm Sebas</h1>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CspO6&label=Profile%20views&color=0e75b6&style=flat" alt="CspO6" /> 
 <h3> 💻 &nbsp;About Me </h3>
