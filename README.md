@@ -5,7 +5,7 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; <span style="font-size: 16px;">A software engineering student at ESPOCH, see my <a href="https://github.com/CspO6/CspO6/blob/main/CV.pdf" target="_blank">resume</a> for more.</span>
+- 🎓 &nbsp; <span style="font-size: 16px;">A software engineering student at ESPOCH, see my <a href="https://github.com/CspO6/CspO6/blob/main/CV.pdf](https://github.com/CspO6/CspO6/blob/main/CV_Sebastian_Pe%C3%B1aherrera.pdf" target="_blank">resume</a> for more.</span>
 - 🌐 &nbsp; <span style="font-size: 16px;">Languages: Spanish, English.</span>
 
 <p style="display: inline-block;" align="center">
