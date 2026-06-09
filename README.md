@@ -77,9 +77,9 @@
 ![Top Languages](https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=CspO6&show_icons=true&hide_border=true&theme=gotham)
 <br>
 
-<div align="center">
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CspO6&layout=compact&theme=gotham&hide_border=true" />
-</div>
+
 
 <br>
 
