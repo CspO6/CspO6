@@ -74,9 +74,7 @@
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 # My Github stats
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CspO6&show_icons=true&theme=gotham&hide_border=true" />
-</div>
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CspO6&show_icons=true&theme=gotham)
 <br>
 
 <div align="center">
