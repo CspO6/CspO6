@@ -91,7 +91,6 @@
     Feel free to check out my projects and connect with me.
   </p>
 </div>
-```
 
 
 
