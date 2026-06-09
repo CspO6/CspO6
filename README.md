@@ -74,8 +74,7 @@
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 # My Github stats
-![Top Languages](https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=CspO6&show_icons=true&hide_border=true&theme=gotham)
-<br>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CspO6&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" /> </div>
 
 
 <br> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+software+solutions+%F0%9F%92%BB;Always+learning+new+technologies+%F0%9F%9A%80;Open+to+new+opportunities+%F0%9F%8C%9F" alt="Typing SVG" /> </div> <br> <div align="center"> <h3>🚀 Thanks for visiting my profile!</h3> <p> Feel free to check out my projects and connect with me. </p> </div>
