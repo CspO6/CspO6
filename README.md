@@ -100,19 +100,7 @@
 
 <h1 align="center">My GitHub Stats</h1>
 
-<div align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=CspO6&show_icons=true&theme=gotham&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CspO6&layout=compact&theme=gotham&hide_border=true" 
-    alt="Top Languages" 
-  />
-</div>
+![Top Languages](https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=CspO6&show_icons=true&hide_border=true&theme=gotham) <br>
 
 <br>
 
@@ -129,4 +117,3 @@
   <h3>🚀 Thanks for visiting my profile!</h3>
   <p>Feel free to check out my projects and connect with me.</p>
 </div>
-```
